@@ -498,7 +498,7 @@ message Validation {
   }
 
   enum Reason {
-    REASOT_NONE = 0;
+    REASON_NONE = 0;
     REASON_AS = 1;
     REASON_LENGTH = 2;
   }
