@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/osrg/gobgp/pkg/packet/bgp"
+	"github.com/kosctelecom/gobgp/pkg/packet/bgp"
 
 	"github.com/stretchr/testify/assert"
 )

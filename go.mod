@@ -1,4 +1,4 @@
-module github.com/osrg/gobgp
+module github.com/kosctelecom/gobgp
 
 require (
 	github.com/BurntSushi/toml v0.3.1

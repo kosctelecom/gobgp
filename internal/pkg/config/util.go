@@ -26,9 +26,9 @@ import (
 
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/timestamp"
-	api "github.com/osrg/gobgp/api"
-	"github.com/osrg/gobgp/internal/pkg/apiutil"
-	"github.com/osrg/gobgp/pkg/packet/bgp"
+	api "github.com/kosctelecom/gobgp/api"
+	"github.com/kosctelecom/gobgp/internal/pkg/apiutil"
+	"github.com/kosctelecom/gobgp/pkg/packet/bgp"
 )
 
 // Returns config file type by retrieving extension from the given path.

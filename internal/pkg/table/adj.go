@@ -18,7 +18,7 @@ package table
 import (
 	"fmt"
 
-	"github.com/osrg/gobgp/pkg/packet/bgp"
+	"github.com/kosctelecom/gobgp/pkg/packet/bgp"
 )
 
 type AdjRib struct {

@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/osrg/gobgp/internal/pkg/config"
-	"github.com/osrg/gobgp/pkg/packet/bgp"
+	"github.com/kosctelecom/gobgp/internal/pkg/config"
+	"github.com/kosctelecom/gobgp/pkg/packet/bgp"
 	"github.com/stretchr/testify/assert"
 )
 

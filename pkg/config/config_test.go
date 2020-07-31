@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/osrg/gobgp/pkg/server"
+	"github.com/kosctelecom/gobgp/pkg/server"
 )
 
 // ExampleUpdateConfig shows how InitialConfig can be used without UpdateConfig

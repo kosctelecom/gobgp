@@ -25,13 +25,13 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/osrg/gobgp/internal/pkg/apiutil"
+	"github.com/kosctelecom/gobgp/internal/pkg/apiutil"
 
 	"github.com/spf13/cobra"
 
-	api "github.com/osrg/gobgp/api"
-	"github.com/osrg/gobgp/internal/pkg/config"
-	"github.com/osrg/gobgp/pkg/packet/bgp"
+	api "github.com/kosctelecom/gobgp/api"
+	"github.com/kosctelecom/gobgp/internal/pkg/config"
+	"github.com/kosctelecom/gobgp/pkg/packet/bgp"
 )
 
 var (

@@ -20,8 +20,8 @@ import (
 	"sort"
 
 	"github.com/k-sone/critbitgo"
-	"github.com/osrg/gobgp/internal/pkg/config"
-	"github.com/osrg/gobgp/pkg/packet/bgp"
+	"github.com/kosctelecom/gobgp/internal/pkg/config"
+	"github.com/kosctelecom/gobgp/pkg/packet/bgp"
 	log "github.com/sirupsen/logrus"
 )
 

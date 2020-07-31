@@ -21,7 +21,7 @@ import (
 	"math"
 	"net"
 
-	"github.com/osrg/gobgp/pkg/packet/bgp"
+	"github.com/kosctelecom/gobgp/pkg/packet/bgp"
 )
 
 type BMPHeader struct {
